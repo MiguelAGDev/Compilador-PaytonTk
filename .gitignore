@@ -1,0 +1,38 @@
+# =========================
+# NetBeans
+# =========================
+
+# Configuración privada del usuario
+nbproject/private/
+
+# Archivos generados por NetBeans
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# =========================
+# Compilación
+# =========================
+
+# Carpeta de compilación
+build/
+
+# Carpeta donde se genera el .jar
+dist/
+
+# Archivos compilados
+*.class
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Sistema Operativo
+# =========================
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
